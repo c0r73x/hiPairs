@@ -55,7 +55,6 @@ if !exists('g:hiPairs_skip')
                 \   'string',
                 \   'character',
                 \   'singlequote',
-                \   'escape',
                 \   'comment'
                 \ ]
 endif
